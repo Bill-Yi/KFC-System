@@ -1,2 +1,2 @@
-# KFC-
-基于Vue/Express的KFC订单系统
+# 基于Vue/Express的KFC订单系统
+
